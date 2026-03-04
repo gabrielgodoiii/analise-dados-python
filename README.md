@@ -4,11 +4,11 @@ Este projeto tem como objetivo analisar o comportamento de cancelamento de clien
 
 A pergunta principal foi:
 
-👉 **Clientes de quais tipos de plano cancelam mais?**
+**Clientes de quais tipos de plano cancelam mais?**
 
 ---
 
-## 🎯 Contexto
+## Contexto
 
 Empresas que trabalham com planos mensais, trimestrais e anuais precisam entender quais contratos apresentam maior risco de churn (cancelamento), pois isso impacta diretamente a previsibilidade de receita e estratégias de retenção.
 
@@ -26,7 +26,7 @@ Isso sugere que contratos de curto prazo possuem menor retenção, enquanto plan
 
 ---
 
-## 🔎 O que foi feito
+## O que foi feito
 
 - Análise exploratória dos dados
 - Comparação de cancelamentos por tipo de contrato
@@ -35,7 +35,7 @@ Isso sugere que contratos de curto prazo possuem menor retenção, enquanto plan
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - Python
 - Pandas
@@ -44,7 +44,7 @@ Isso sugere que contratos de curto prazo possuem menor retenção, enquanto plan
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 - Calcular taxa percentual de churn por plano
 - Desenvolver modelo preditivo de cancelamento
